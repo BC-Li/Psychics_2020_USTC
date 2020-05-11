@@ -1,2 +1,4 @@
-# Psychics_2020_USTC
-Slides and Homework for Psychics 2020.
+# Psychics2020
+
+This is the slides selected of Psychics 2020.  
+Lecturer: Yi Song
